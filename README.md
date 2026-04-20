@@ -14,10 +14,6 @@ y calcular estadísticas de tareas.
 - `while`: se usa en `mostrar_estadisticas` para recorrer la    lista de tareas con un índice manual
   y también en el menú principal para repetir la ejecución hasta que el usuario elija salir.
 
-## Requisitos
-
-- Python 3.x
-
 ## Ejecución
 
 1. Abre una terminal.
